@@ -1,2 +1,7 @@
-# NLP_YevtushenkoBS-25
-ere are the practical assignments for the Natural Language Processing course by student of group BS-25 Yehor Yevtushenko.
+Natural Language Processing – Practical Assignments
+
+This repository contains practical assignments for the Natural Language Processing (NLP) course.
+
+Student: Yehor Yevtushenko
+Group: BS-25
+Course: Natural Language Processing
